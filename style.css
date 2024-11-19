@@ -1,11 +1,14 @@
 .chamada{
-    background: purple;
+    background: pink;
     display: flex;
-    margin-top: 80px;
-    margin-bottom: 80px;
+    padding-top: 80px;
+    padding-bottom: 80px;
     justify-content: center;
 }
 body{
     background: black;
     margin: 0px;
+    font-family: "Sacramento", cursive;
+    color: rgb(95, 7, 7);
+    margin-bottom: 100px;
 }
